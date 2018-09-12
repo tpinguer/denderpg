@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="671d8fad-c765-4ad7-8d6b-5924a19f600c" name="Default Changelist" comment="" />
+    <list default="true" id="671d8fad-c765-4ad7-8d6b-5924a19f600c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Dende FrontBack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Dende FrontBack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/business-casual.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/business-casual.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/PoiretOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sansita-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fundo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gd.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/intro2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/monge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sandor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sobre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tavena_sobre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/livros.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personagens.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_cta.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_intro.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_products.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_store.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/business-casual.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sobre.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,41 +102,76 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-302132939">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="13" />
+          <entry key="html" value="2" />
+          <entry key="js" value="2" />
+          <entry key="map" value="2" />
+          <entry key="scss" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="13" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="20" />
+          <entry key="scss" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="20" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-580" />
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_global.scss">
+        <entry file="file://$PROJECT_DIR$/back_end.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="191" selection-start-line="2" selection-start-column="191" selection-end-line="2" selection-end-column="191" />
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_about.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_bootstrap-overrides.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jpe</find>
+      <find>jpeg</find>
+      <find>jp</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_global.scss" />
+        <option value="$PROJECT_DIR$/back_end.py" />
+        <option value="$PROJECT_DIR$/static/scss/_global.scss" />
+        <option value="$PROJECT_DIR$/static/css/business-casual.min.css" />
+        <option value="$PROJECT_DIR$/static/css/business-casual.css" />
       </list>
     </option>
   </component>
@@ -96,24 +190,23 @@
           <expand>
             <path>
               <item name="Dende FrontBack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dende Front:Back" type="462c0819:PsiDirectoryNode" />
+              <item name="dende" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dende FrontBack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dende Front:Back" type="462c0819:PsiDirectoryNode" />
-              <item name="startbootstrap-business-casual-gh-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="dende" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dende FrontBack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dende Front:Back" type="462c0819:PsiDirectoryNode" />
-              <item name="startbootstrap-business-casual-gh-pages" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="dende" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dende FrontBack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dende Front:Back" type="462c0819:PsiDirectoryNode" />
-              <item name="startbootstrap-business-casual-gh-pages" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="dende" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,8 +246,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
-    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29175475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32896462" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29175475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -165,61 +276,115 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32896462" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.scss" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/bg.jpg" />
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/about.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/products-01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/products-03.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/products-02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/fantasy_art_pointed_ears_tavern_candles-1146623.jpg!d.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-950" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_about.scss">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/about.jpg" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/products-01.jpg" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/products-03.jpg" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/products-02.jpg" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/fantasy_art_pointed_ears_tavern_candles-1146623.jpg!d.jpeg" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/about.html" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_about.scss" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_bootstrap-overrides.scss" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/taverna.jpg" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_global.scss" />
+    <entry file="file://$PROJECT_DIR$/static/js/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_bootstrap-overrides.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/img/taverna.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/index.html">
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580" />
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/scss/_global.scss">
+    <entry file="file://$PROJECT_DIR$/static/scss/_intro.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/scss/business-casual.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/scss/_about.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/scss/_bootstrap-overrides.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
+          <caret line="33" column="137" selection-start-line="33" selection-start-column="137" selection-end-line="33" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="66" column="89" selection-start-line="66" selection-start-column="87" selection-end-line="66" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="77" column="35" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/business-casual.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/business-casual.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="96" selection-start-line="4" selection-start-column="96" selection-end-line="4" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/scss/_global.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="191" selection-start-line="2" selection-start-column="191" selection-end-line="2" selection-end-column="191" />
+          <caret line="2" column="85" selection-start-line="2" selection-start-column="85" selection-end-line="2" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
